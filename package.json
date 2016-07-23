@@ -1,7 +1,7 @@
 {
-  "name": "lightspeedc-qiita-heroku1",
+  "name": "heroku-testapp1",
   "version": "0.0.0",
-  "description": "lightspeedc-qiita-heroku1",
+  "description": "heroku-testapp1",
   "main": "index.js",
   "engines": {
     "node": "6"
@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "LightSpeedC/lightspeedc-qiita-heroku1"
+    "url": "LincolnHedgehog/heroku-testapp1"
   },
   "keywords": [
     "heroku"
   ],
   "private": true,
-  "author": "LightSpeedC",
+  "author": "LincolnHedgehog",
   "license": "MIT"
 }
